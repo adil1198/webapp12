@@ -10,8 +10,8 @@ module.exports = [
   },
   {
     id: 3,
-    task: "Wash the dishes"
-  }
+    task: "Wash the dishes"S
+  },
   { 
     id: 4,
     task: "Make Dinner"
