@@ -6,6 +6,7 @@
   "scripts": {
     "test": "jest",
     "start": "node server.js"
+    "deploy": "npx gh-pages -b master --message '[skip ci] Updates' -d ./"
   },
   "author": "",
   "license": "ISC",
